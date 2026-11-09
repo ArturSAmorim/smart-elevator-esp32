@@ -1,0 +1,50 @@
+# ==================================================
+# Projeto Elevador | Android (Kotlin) + ESP32
+# ==================================================
+
+# Secrets: nunca versionar credenciais reais
+**/secrets.h
+**/secrets.local.h
+**/credentials.h
+**/.env
+**/.env.*
+!**/.env.example
+!**/secrets.example.h
+
+# Configurações locais e chaves privadas
+**/local.properties
+*.keystore
+*.jks
+*.p12
+*.pem
+*.key
+
+# Android Studio / IntelliJ / Gradle
+.gradle/
+**/.gradle/
+.idea/
+**/.idea/
+*.iml
+**/build/
+**/.cxx/
+**/.externalNativeBuild/
+**/captures/
+*.apk
+*.aab
+
+# Arduino / ESP32 (arquivos temporários de compilação)
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.d
+
+# Sistema operacional e editores
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+*.swp
+*.swo
+*~
