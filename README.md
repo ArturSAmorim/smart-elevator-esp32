@@ -14,11 +14,11 @@ O sistema permite solicitar andares pelo aplicativo Android ou por botões físi
 
 | Aplicativo em execução | Protótipo físico |
 | --- | --- |
-| **[Adicionar captura real do aplicativo](docs/imagens/)** (`app-em-execucao.png`) | **[Adicionar foto real do elevador](docs/imagens/)** (`prototipo-real.jpg`) |
+| ![Tela do aplicativo](assets/Tela_APP.png) | ![Elevador físico](assets/Elevador_Fisico.jpeg) |
 
 **Trecho real do firmware — estados de movimento e timeout:**
 
-![Trecho real da máquina de estados no firmware](docs/imagens/firmware-maquina-estados.png)
+![Trecho real da máquina de estados no firmware](assets/firmware-maquina-estados.png)
 
 > Os registros do aplicativo e do protótipo não estavam no arquivo enviado. Os espaços acima devem ser substituídos por capturas e fotos reais, sem simular evidências.
 
@@ -169,6 +169,6 @@ Este é um **projeto acadêmico** desenvolvido originalmente sem histórico Git.
 
 ## Autoria
 
-Projeto acadêmico — [preencher nome e, se houver, demais integrantes e respectivas contribuições].
+Projeto acadêmico- Feito por Artur Amorim
 
 > **Aviso:** protótipo didático. Não utilizar como sistema de controle de elevadores de transporte de pessoas.
